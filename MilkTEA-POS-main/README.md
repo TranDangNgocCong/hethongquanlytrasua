@@ -63,10 +63,6 @@ MilkTEA-POS/
 ### Các bước
 
 1. **Clone repository**
-   ```bash
-   git clone https://github.com/HuynhHao080/MilkTEA-POS.git
-   cd MilkTEA-POS
-   ```
 
 2. **Cài đặt dependencies**
    ```bash
