@@ -185,26 +185,7 @@ Audit logs được lưu vào bảng `audit_logs` với:
 
 ---
 
-## 🤝 Đóng góp
 
-1. Fork repository
-2. Tạo branch mới (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Mở Pull Request
-
----
-
-## 📄 License
-
-Dự án nội bộ - Không public.
-
----
-
-## 📞 Liên hệ
-
-- **Developer**: Huỳnh Nhựt Hào
-- **GitHub**: https://github.com/HuynhHao080/MilkTEA-POS
 
 ---
 
