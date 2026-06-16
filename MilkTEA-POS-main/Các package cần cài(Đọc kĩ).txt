@@ -1,0 +1,5 @@
+1. Microsoft.EntityFrameworkCore (quan trọng)
+2. Microsoft.EntityFrameworkCore.Tools (quan trọng)
+3. Npgsql.EntityFrameworkCore.PostgreSQL (nhóm dung PostgreSQL ko dùng SQLSERVER để tiện làm nhóm hơn)
+4. Microsoft.Extensions.Configuration.Json 
+-> đọc application.json (đọc urlstring)

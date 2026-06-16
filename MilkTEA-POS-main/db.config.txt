@@ -1,0 +1,1 @@
+Host=aws-1-ap-southeast-1.pooler.supabase.com;Port=5432;Database=postgres;Username=postgres.tisoidtsgtqwifjfunrs;Password=nliwmgmwbwAnhZk7;SSL Mode=Require;Trust Server Certificate=true
